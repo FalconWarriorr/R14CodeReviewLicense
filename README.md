@@ -44,9 +44,9 @@ Section 2 -- Grant of Rights
    review and create commentary on it.
 
 4. Subject to the terms of this licence, you must at all times comply
-   with and shall be bound to never run this code on a robot in 
-   competition with the author(s) or the author(s) team(s).
-
+   with and shall be bound to never run this code on a robot that competes
+   with or against a robot constructed by the author(s) or the author(s)
+   team(s).
 
 Section 3 -- Limitations
 ------------------------
