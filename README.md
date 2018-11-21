@@ -91,3 +91,6 @@ Section 5 -- General
 
 2. Questions and comments regarding this licence are welcomed and
    should be addressed to [support@team900.org].
+   
+3. If you need different licensing terms feel free to contact us at
+   [licensing@team900.org].
