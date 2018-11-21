@@ -74,7 +74,6 @@ Section 3 -- Limitations
    ADVERSE EFFECT ON YOUR SYSTEM OR DEVICES AS A RESULT OF YOUR
    ACCESSING AND USING THE CODE.
 
-
 Section 4 -- Termination, suspension and variation
 --------------------------------------------------
 
@@ -82,3 +81,15 @@ Section 4 -- Termination, suspension and variation
    access to the code at any time, without notice, for any reason or
    no reason, in respect of any licensee, group of licensees or all
    licensees.
+   
+Section 5 -- General
+--------------------
+
+1. This licence and its interpretation and operation are governed
+   solely by Freedonia law. We and each you submit to the exclusive
+   jurisdiction of the Freedonia arbitration tribunals and you agree
+   not to raise any jurisdictional issue if we need to enforce an 
+   arbitral award or judgment in Freedonia or another country.
+
+2. Questions and comments regarding this licence are welcomed and
+   should be addressed to [support@team900.org].
