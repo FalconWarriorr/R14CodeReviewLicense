@@ -1,5 +1,3 @@
-# R14CodeReviewLicense
-
 The R14 LIMITED CODE REVIEW LICENCE
 ================================
 
